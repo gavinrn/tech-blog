@@ -1,0 +1,21 @@
+/* Style for the nav bar */
+nav {
+    background-color: #6d4c41;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+
+  /* Style for the navigation links */
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 20px;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
